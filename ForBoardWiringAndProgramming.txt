@@ -1,0 +1,8 @@
+https://fredrik.hubbe.net/lightsaber/v6/
+
+This is the original makers website for ProffieBoard and ProffieOS. 
+
+You can use, modify, change my designs for the hilt. For all the other stuff, I used this website.
+
+My design for now is very bad. Not rigid, hard to route the wires, things don't fit... I used a lot of electrical tape to stick things that dont fit into the chasis, which should not be the case. However, I will keep optimizing it.
+
