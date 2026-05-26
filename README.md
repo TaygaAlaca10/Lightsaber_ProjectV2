@@ -1,2 +1,3 @@
 # Lightsaber_ProjectV2
-Custom neopixel lightsaber project
+Custom neopixel lightsaber project based on ProffieBoard
+
